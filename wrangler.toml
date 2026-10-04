@@ -1,6 +1,0 @@
-name = "engoke-ai"
-main = "index.js"
-compatibility_date = "2026-10-02"
-
-[secrets]
-required = ["GEMINI_API_KEY", "TELEGRAM_BOT_TOKEN", "TELEGRAM_WEBHOOK_SECRET"]
