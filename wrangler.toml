@@ -1,10 +1,10 @@
-name = "elvion-ai"
+name = "unique-ai"
 main = "src/index.js"
-compatibility_date = "2026-10-01"
+compatibility_date = "2025-09-01"
 
 [[kv_namespaces]]
 binding = "BOT_KV"
-id = "YOUR_KV_NAMESPACE_ID"
+id = "0dab13d1ff5d432d8f5ef49625ae4b00"
 
 [vars]
 GEMINI_MODEL = "gemini-2.5-flash"
